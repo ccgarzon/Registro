@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="add_name">Ingrese Su Nombre</string>
+    <string name="add_mail">Ingrese Su Correo Electrónico</string>
+    <string name="add_telephone">Ingrese Su Teléfono</string>
+    <string name="add_password">Ingrese Su Contraseña</string>
+    <string name="add_repassword">Ingrese De Nuevo Su Contraseña</string>
+    <string name="male">MASCULINO</string>
+    <string name="female">FEMENINO</string>
+    <string name="add_gender">SELECCIONE SU GENERO</string>
+    <string name="add_hobbies">SELECCIONE SUS GUSTOS</string>
+    <string name="swim">Nadar</string>
+    <string name="dance">Bailar</string>
+    <string name="run">Correr</string>
+    <string name="walk">Caminar</string>
+    <string name="add_city">SELECCIONE SU MUNICIPIO</string>
+    <string name="add_birthday">TOQUE AQUI PARA SELECCIONAR SU FECHA DE NACIMIENTO</string>
+    <string name="bt_register">GUARDAR</string>
+    <string name="tv_results">RESULTADOS:</string>
+    <string name="msg_empty">FALTAN CAMPOS POR LLENAR</string>
+    <string name="msg_different">CAMPOS DE CONTRASEÑAS DIFERENTES</string>
+</resources>
